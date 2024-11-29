@@ -8,6 +8,8 @@ gem "simple_form"
 gem "sassc-rails"
 
   gem "dotenv-rails"
+gem "cloudinary"
+gem "image_processing", ">= 1.2"
 
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
